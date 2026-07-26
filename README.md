@@ -1,20 +1,26 @@
 # Göktuğ Özkan, MD
 
-Internal medicine physician building open-source medical-AI safety evaluation. I write the clinical cases myself, then test whether frontier models handle them safely.
+Internal medicine physician building reproducible evaluation systems for medical AI and open source AI.
 
-**Main project**
+I created [MedFailBench](https://github.com/goktugozkanmd/medical-ai-failure-atlas), a clinician built synthetic benchmark for inspecting medical AI safety boundaries. The current public release contains 44 clinician reviewed cases across 21 clinical domains, with no patient data and no clinical validation claim.
 
-- **[Medical AI Failure Atlas / MedFailBench](https://github.com/goktugozkanmd/medical-ai-failure-atlas)** — a clinician-built benchmark for medical-AI safety: safety-critical wording, missing variables, escalation boundaries, source support. 10 models scored so far. [Live leaderboard on Hugging Face](https://huggingface.co/spaces/goktugozkanmd/medical-ai-failure-atlas) · [DOI](https://doi.org/10.5281/zenodo.21205535)
+## Flagship work
 
-**Upstream work**
+* [MedFailBench repository](https://github.com/goktugozkanmd/medical-ai-failure-atlas)
+* [Zenodo software record](https://doi.org/10.5281/zenodo.21205535)
 
-- [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) (UK AI Security Institute) — reward-hacking measurement schemas for the monitor layer
-- [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) (EleutherAI) — Turkish clinical safety tasks, MedFailBench integration
-- [lighteval](https://github.com/huggingface/lighteval) (Hugging Face) — eval tooling fixes
-- [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (Farama) — reward-audit monitoring wrapper design
+## Selected merged open source contributions
 
-**Elsewhere**
+* [AI Alliance Trust and Safety Evals PR 61](https://github.com/The-AI-Alliance/trust-safety-evals/pull/61)
+* [OpenGuardrails PR 17](https://github.com/openguardrails/openguardrails/pull/17)
+* [MedAgent Core PR 28](https://github.com/Francis1998/medagent-core/pull/28)
+* [Inspect Evals PR 1892](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1892) and [PR 1893](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1893)
 
-- MLCommons — Medical AI & AI Risk and Reliability working groups
-- Hugging Face: [@goktugozkanmd](https://huggingface.co/goktugozkanmd)
-- Contact: drozkan2@gmail.com
+## Active benchmark integrations
+
+* [OpenCompass PR 2560](https://github.com/open-compass/opencompass/pull/2560)
+* [LM Evaluation Harness PR 3918](https://github.com/EleutherAI/lm-evaluation-harness/pull/3918)
+
+## Elsewhere
+
+* [Hugging Face profile](https://huggingface.co/goktugozkanmd)
