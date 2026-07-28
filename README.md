@@ -1,13 +1,15 @@
 # Göktuğ Özkan, MD
 
-Internal medicine physician building reproducible evaluation systems for medical AI and open source AI.
+Internal medicine physician building open evaluation systems for medical AI safety and open source AI.
 
-I created [MedFailBench](https://github.com/goktugozkanmd/medical-ai-failure-atlas), a clinician built synthetic benchmark for inspecting medical AI safety boundaries. The current public release contains 44 clinician reviewed cases across 21 clinical domains, with no patient data and no clinical validation claim.
+I created [MedFailBench](https://github.com/goktugozkanmd/medical-ai-failure-atlas), an open clinical safety evaluation project with 44 clinician reviewed cases across 21 clinical domains. I also maintain the [Türkiye Clinical AI Evidence Atlas](https://github.com/goktugozkanmd/turkiye-clinical-ai-evidence-atlas), a bilingual public evidence map with a reproducible method, a 63 field schema, and a validated 25 record pilot.
 
 ## Flagship work
 
 * [MedFailBench repository](https://github.com/goktugozkanmd/medical-ai-failure-atlas)
-* [Zenodo software record](https://doi.org/10.5281/zenodo.21205535)
+* [Türkiye Clinical AI Evidence Atlas](https://github.com/goktugozkanmd/turkiye-clinical-ai-evidence-atlas)
+* [MedFailBench arXiv preprint](https://arxiv.org/abs/2607.15166v2)
+* [MedFailBench versioned record](https://doi.org/10.5281/zenodo.21205535)
 
 ## Selected merged open source contributions
 
@@ -23,4 +25,5 @@ I created [MedFailBench](https://github.com/goktugozkanmd/medical-ai-failure-atl
 
 ## Elsewhere
 
-* [Hugging Face profile](https://huggingface.co/goktugozkanmd)
+* [ORCID](https://orcid.org/0000-0002-5022-9124)
+* [Hugging Face](https://huggingface.co/goktugozkanmd)
