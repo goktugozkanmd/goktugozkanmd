@@ -4,6 +4,14 @@ Internal medicine physician building open evaluation systems for medical AI safe
 
 I created [MedFailBench](https://github.com/goktugozkanmd/medical-ai-failure-atlas), an open clinical safety evaluation project with 44 clinician reviewed cases across 21 clinical domains. I also maintain the [Türkiye Clinical AI Evidence Atlas](https://github.com/goktugozkanmd/turkiye-clinical-ai-evidence-atlas), a bilingual public evidence map with a reproducible method, a 63 field schema, and a validated 25 record pilot.
 
+
+## Repositories
+
+The Repositories tab mixes original projects with contribution forks. Use the lists:
+
+* [Flagship](https://github.com/stars/goktugozkanmd/lists/flagship) — original public work (MedFailBench, TurKMedBench, evidence atlas, and related projects)
+* [Forks](https://github.com/stars/goktugozkanmd/lists/forks) — copies used for upstream pull requests, not original projects
+
 ## Flagship work
 
 * [MedFailBench repository](https://github.com/goktugozkanmd/medical-ai-failure-atlas)
