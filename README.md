@@ -1,47 +1,17 @@
 # Göktuğ Özkan, MD
 
-Internal medicine physician building open evaluation systems for medical AI safety and open source AI.
+**Board-Certified Internal Medicine Specialist (MD) · Clinical AI Safety Researcher · Open-Source Maintainer**
 
-I created [MedFailBench](https://github.com/goktugozkanmd/medical-ai-failure-atlas), an open clinical safety evaluation project with 44 clinician reviewed cases across 21 clinical domains. I also maintain the [Türkiye Clinical AI Evidence Atlas](https://github.com/goktugozkanmd/turkiye-clinical-ai-evidence-atlas), a bilingual public evidence map with a reproducible method, a 63 field schema, and a validated 25 record pilot.
+🌐 **Portfolio & CV:** [goktugozkanmd.github.io](https://goktugozkanmd.github.io) · 💼 **LinkedIn:** [linkedin.com/in/goktugozkanmd](https://www.linkedin.com/in/goktugozkanmd/) · 🧬 **ORCID:** [0000-0002-5022-9124](https://orcid.org/0000-0002-5022-9124) · 📄 **PubMed:** [PMID: 42874665](https://pubmed.ncbi.nlm.nih.gov/42874665/)
 
+---
 
-## Repositories
+### Shipped Open-Source Clinical AI & Research Integrity Tools
+- **[ManuGate MD](https://github.com/goktugozkanmd/manugate-md)** ([Live Browser App](https://goktugozkanmd-manugate-md.static.hf.space)) — Zero-upload .docx & Python CLI pre-submission auditor for live PubMed/Crossref citation verification, JAMA/AMA 95% CI math checks, and blind-review metadata stripping.
+- **[MedFailBench / Medical AI Failure Atlas](https://github.com/goktugozkanmd/medical-ai-failure-atlas)** — Clinician-graded severity rubrics exposing triage, dosing, and contraindication omissions hidden by aggregate LLM benchmarks.
+- **[TurKMedBench](https://github.com/goktugozkanmd/TurKMedBench-public)** — 808 synthetic clinical safety vignettes testing real local pharmacology and referral workflows.
+- **22+ Merged Upstream AI Safety PRs:** Contributor to **UK AI Security Institute** (UKGovernmentBEIS/inspect_evals #1892, #1893, #1897), **The AI Alliance** (	rust-safety-evals #60–#62), OpenGuardrailsBench, AgentEval, and BenchKit.
 
-The Repositories tab mixes original projects with contribution forks. Use the lists:
-
-* [Flagship](https://github.com/stars/goktugozkanmd/lists/flagship) — original public work (MedFailBench, TurKMedBench, evidence atlas, and related projects)
-* [Forks](https://github.com/stars/goktugozkanmd/lists/forks) — copies used for upstream pull requests, not original projects
-
-## Flagship work
-
-* [ManuGate MD](https://github.com/goktugozkanmd/manugate-md) — MIT-licensed zero-upload pre-submission clinical & biostatistics manuscript audit gate ([live browser app](https://goktugozkanmd-manugate-md.static.hf.space))
-* [Clinical AI Output Evaluation Starter Pack](https://goktugozkanmd.github.io/clinical-ai-eval-starter/) — 7-class clinical-adjacent LLM failure taxonomy, 6-dimension rubric & synthetic calibration kit
-* [MedFailBench repository](https://github.com/goktugozkanmd/medical-ai-failure-atlas)
-* [Türkiye Clinical AI Evidence Atlas](https://github.com/goktugozkanmd/turkiye-clinical-ai-evidence-atlas)
-* [MedFailBench arXiv preprint](https://arxiv.org/abs/2607.15166v2)
-* [MedFailBench versioned record](https://doi.org/10.5281/zenodo.21205535)
-
-## Selected merged open source contributions
-
-* [AI Alliance Trust and Safety Evals PR 61](https://github.com/The-AI-Alliance/trust-safety-evals/pull/61)
-* [OpenGuardrails PR 17](https://github.com/openguardrails/openguardrails/pull/17)
-* [MedAgent Core PR 28](https://github.com/Francis1998/medagent-core/pull/28)
-* [Inspect Evals PR 1892](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1892) and [PR 1893](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1893)
-
-## Active benchmark integrations
-
-* [OpenCompass PR 2560](https://github.com/open-compass/opencompass/pull/2560)
-* [LM Evaluation Harness PR 3918](https://github.com/EleutherAI/lm-evaluation-harness/pull/3918)
-
-## Consulting, Clinical AI Evaluation & Manuscript Audits
-
-* **Clinical AI Safety & Physician-in-the-Loop QA ($60–$150/hr):** Failure taxonomies, clinical benchmark design, medical LLM grading & Python evaluation pipelines ([PMID: 42874665](https://pubmed.ncbi.nlm.nih.gov/42874665/))
-* **24h Physician & Biostatistician Pre-Submission Audit ($149 flat):** Full table/text/95% CI/DOI verification before journal submission via [ManuGate MD](https://goktugozkanmd-manugate-md.static.hf.space)
-
-## Elsewhere
-
-* [ORCID](https://orcid.org/0000-0002-5022-9124)
-* [Hugging Face](https://huggingface.co/goktugozkanmd)
-* [LinkedIn](https://www.linkedin.com/in/goktugozkanmd/)
-* [PubMed (PMID: 42874665)](https://pubmed.ncbi.nlm.nih.gov/42874665/)
-* Direct inquiries: [drozkan2@gmail.com](mailto:drozkan2@gmail.com)
+### Selected Peer-Reviewed Publications
+- **Özkan G.** *Do Large Language Models Link to Incorrect Citations? A PubMed and DOI Benchmark.* **Applied Clinical Informatics** (SCIE Q2). 2026;17(4):950–954. [doi:10.1055/a-2972-4974](https://doi.org/10.1055/a-2972-4974) · **PMID: 42874665** (Sole Author).
+- **Özkan G.** *Multicenter ICU sepsis aminoglycoside nephrotoxicity safety benchmark (MIMIC-IV & eICU-CRD).* **IDCM** (ESCI, Accepted 2026, #1211).
