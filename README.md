@@ -14,6 +14,8 @@ The Repositories tab mixes original projects with contribution forks. Use the li
 
 ## Flagship work
 
+* [ManuGate MD](https://github.com/goktugozkanmd/manugate-md) — MIT-licensed zero-upload pre-submission clinical & biostatistics manuscript audit gate ([live browser app](https://goktugozkanmd-manugate-md.static.hf.space))
+* [Clinical AI Output Evaluation Starter Pack](https://goktugozkanmd.github.io/clinical-ai-eval-starter/) — 7-class clinical-adjacent LLM failure taxonomy, 6-dimension rubric & synthetic calibration kit
 * [MedFailBench repository](https://github.com/goktugozkanmd/medical-ai-failure-atlas)
 * [Türkiye Clinical AI Evidence Atlas](https://github.com/goktugozkanmd/turkiye-clinical-ai-evidence-atlas)
 * [MedFailBench arXiv preprint](https://arxiv.org/abs/2607.15166v2)
@@ -31,7 +33,15 @@ The Repositories tab mixes original projects with contribution forks. Use the li
 * [OpenCompass PR 2560](https://github.com/open-compass/opencompass/pull/2560)
 * [LM Evaluation Harness PR 3918](https://github.com/EleutherAI/lm-evaluation-harness/pull/3918)
 
+## Consulting, Clinical AI Evaluation & Manuscript Audits
+
+* **Clinical AI Safety & Physician-in-the-Loop QA ($60–$150/hr):** Failure taxonomies, clinical benchmark design, medical LLM grading & Python evaluation pipelines ([PMID: 42874665](https://pubmed.ncbi.nlm.nih.gov/42874665/))
+* **24h Physician & Biostatistician Pre-Submission Audit ($149 flat):** Full table/text/95% CI/DOI verification before journal submission via [ManuGate MD](https://goktugozkanmd-manugate-md.static.hf.space)
+
 ## Elsewhere
 
 * [ORCID](https://orcid.org/0000-0002-5022-9124)
 * [Hugging Face](https://huggingface.co/goktugozkanmd)
+* [LinkedIn](https://www.linkedin.com/in/goktugozkanmd/)
+* [PubMed (PMID: 42874665)](https://pubmed.ncbi.nlm.nih.gov/42874665/)
+* Direct inquiries: [drozkan2@gmail.com](mailto:drozkan2@gmail.com)
